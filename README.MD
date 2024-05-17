@@ -27,9 +27,9 @@ O projeto é organizado em uma estrutura de pastas que separa componentes, pági
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="imagem HTML" width="20" height="20" /> [Antd](https://ant.design/docs/react/getting-started)-Uma popular biblioteca de componentes de interface de usuário (UI) para React, desenvolvida com foco na facilidade de uso, design moderno e alta customização. 
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="imagem HTML" width="20" height="20" /> [HTML](https://www.w3schools.com/html/default.asp)- Este arquivo contém a estrutura HTML para a página da calculadora de IMC.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="imagem HTML" width="20" height="20" /> [HTML](https://www.w3schools.com/html/default.asp)- Este arquivo contém a estrutura HTML para a página.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="imagem HTML" width="20" height="20" /> [CSS](https://www.w3schools.com/css/default.asp)- O arquivo de estilo CSS contém o layout e a aparência visual da calculadora,responsividade , incluindo o destaque em verde ou vermelho para o resultado do IMC.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="imagem HTML" width="20" height="20" /> [CSS](https://www.w3schools.com/css/default.asp)- O arquivo de estilo CSS contém o layout , aparência visual e responsividade.
 
 ## 🚀 Começando
 De que coisas você precisa para o software e como instalá-lo?
